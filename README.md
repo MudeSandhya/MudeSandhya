@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning *Django framework*
 
-- 💬 Ask me about *Python* , *Sql*
+- 💬 Ask me about *Python* , *Sql* , *HTML* , *CSS*
 
 - 📫 How to reach me *sandhyamude28@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mude-sandhya-3a9031259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishali-ramesh-b35b39283" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mude-sandhya-3a9031259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MudeSandhya-b35b39283" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mude.sandhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MudeSandhya" height="30" width="40" /></a>
 </p>
 
